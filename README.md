@@ -5,6 +5,31 @@ All tasks are implemented in a single main.py file.
 
 --------------------------------------------------
 
+**1. Add 3 More Products**
+
+Scenario:
+Your client added three new products to their store:
+Laptop Stand, Mechanical Keyboard, and Webcam.
+
+Tasks:
+- Create endpoint: GET /products
+- Add 3 new products to the products list with IDs 5, 6, and 7
+- Each product must include:
+  id
+  name
+  price
+  category
+  in_stock
+
+--------------------------------------------------
+
+# FastAPI Assignment 1
+
+This assignment focuses on building REST API endpoints using FastAPI.  
+All tasks are implemented in a single main.py file.
+
+--------------------------------------------------
+
 1. Add 3 More Products
 
 Scenario:
@@ -23,7 +48,7 @@ Tasks:
 
 --------------------------------------------------
 
-2. Add a Category Filter Endpoint
+**2. Add a Category Filter Endpoint**
 
 Scenario:
 The mobile app should display products based on category
@@ -37,7 +62,7 @@ Tasks:
 
 --------------------------------------------------
 
-3. Show Only In-Stock Products
+**3. Show Only In-Stock Products**
 
 Scenario:
 Customers should only see products that are available in stock.
@@ -49,7 +74,7 @@ Tasks:
 
 --------------------------------------------------
 
-4. Build a Store Info Endpoint
+**4. Build a Store Info Endpoint**
 
 Scenario:
 The store homepage should display a summary of the store.
@@ -64,7 +89,7 @@ Tasks:
 
 --------------------------------------------------
 
-5. Search Products by Name
+**5. Search Products by Name**
 
 Scenario:
 Users should be able to search products using a keyword.
@@ -79,7 +104,7 @@ Tasks:
 
 --------------------------------------------------
 
-6. Cheapest & Most Expensive Product
+**6. Cheapest & Most Expensive Product**
 
 Scenario:
 The store wants to show the cheapest product as the Best Deal
@@ -97,3 +122,4 @@ Technologies Used:
 Python
 FastAPI
 Uvicorn
+
