@@ -1,3 +1,5 @@
+
+
 # FastAPI Assignment 1
 
 This assignment focuses on building REST API endpoints using FastAPI.  
@@ -6,31 +8,6 @@ All tasks are implemented in a single main.py file.
 --------------------------------------------------
 
 **1. Add 3 More Products**
-
-Scenario:
-Your client added three new products to their store:
-Laptop Stand, Mechanical Keyboard, and Webcam.
-
-Tasks:
-- Create endpoint: GET /products
-- Add 3 new products to the products list with IDs 5, 6, and 7
-- Each product must include:
-  id
-  name
-  price
-  category
-  in_stock
-
---------------------------------------------------
-
-# FastAPI Assignment 1
-
-This assignment focuses on building REST API endpoints using FastAPI.  
-All tasks are implemented in a single main.py file.
-
---------------------------------------------------
-
-1. Add 3 More Products
 
 Scenario:
 Your client added three new products to their store:
@@ -119,7 +96,7 @@ Tasks:
 --------------------------------------------------
 
 Technologies Used:
-Python
-FastAPI
-Uvicorn
+-Python
+-FastAPI
+-Uvicorn
 
